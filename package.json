@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Personal website for Ryan Guidry.",
   "main": "index.js",
-  "scripts": {
-    "start": "echo 'No start script defined'",
-    "test": "echo 'No test specified'"
-  },
+"scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+},
   "keywords": [],
   "author": "Ryan Guidry",
   "license": "MIT"
